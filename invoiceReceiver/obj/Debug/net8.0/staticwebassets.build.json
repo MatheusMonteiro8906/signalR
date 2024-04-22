@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LNkwcfmL45Qj60Cwnt1RoVBduqXVmSghIxQZiWsQ7JE=",
+  "Source": "invoiceReceiver",
+  "BasePath": "_content/invoiceReceiver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
